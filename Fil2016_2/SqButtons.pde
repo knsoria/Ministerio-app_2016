@@ -446,22 +446,22 @@ class SqButtons extends Button {
             }
             p1.setMediaFile("vacio.mp3");   p1.setLooping(false);   p1.setVolume(1.0, 1.0);
             int i=0;
-            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Ñuqam takini",p1); //Estamos viviendo || 16 || Yo canto 
+            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Ñuqam takini",p1);            //Estamos viviendo || 16 || Yo canto 
             contenidoButtons[i] = new ImageButtons(i,1,1,jaqaru_base[1],jaqaru_file[i++],false,"Ñuqam takimurqani",p1);       //Estamos viviendo || 17 || To canté
             contenidoButtons[i] = new ImageButtons(i,1,2,jaqaru_base[2],jaqaru_file[i++],false,"Qam takimusaq",p1);           //Estamos viviendo || 18 || Yo cantaré
-            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Qam takinki",p1);         //Estamos viviendo || 19 || Tú cantas
+            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Qam takinki",p1);             //Estamos viviendo || 19 || Tú cantas
             contenidoButtons[i] = new ImageButtons(i,1,1,jaqaru_base[1],jaqaru_file[i++],false,"Qam takirqanki",p1);          //Estamos viviendo || 20 || Tú cantaste
             contenidoButtons[i] = new ImageButtons(i,1,2,jaqaru_base[2],jaqaru_file[i++],false,"Qam takinki",p1);             //Estamos viviendo || 21 || Tú cantarás
-            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Pay takin",p1);     //Estamos viviendo || 22 || Él canta
+            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Pay takin",p1);               //Estamos viviendo || 22 || Él canta
             contenidoButtons[i] = new ImageButtons(i,1,1,jaqaru_base[1],jaqaru_file[i++],false,"Pay takirqam",p1);            //Estamos viviendo || 23 || Él cantó
             contenidoButtons[i] = new ImageButtons(i,1,2,jaqaru_base[2],jaqaru_file[i++],false,"Pay takinqa",p1);             //Estamos viviendo || 24 || Él cantará
-            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Pay takichkan/takin",p1);     //Estamos viviendo || 25 || Ella canta
-            contenidoButtons[i] = new ImageButtons(i,1,1,jaqaru_base[1],jaqaru_file[i++],false,"Pay takirqam",p1);            //Estamos viviendo || 26 || Ella cantó
-            contenidoButtons[i] = new ImageButtons(i,1,2,jaqaru_base[2],jaqaru_file[i++],false,"Pay takinqa",p1);             //Estamos viviendo || 27 || Ella cantará
+            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Ñuqayku \n takiyku",p1);      //Estamos viviendo || 25 || Nosotros cantamos
+            contenidoButtons[i] = new ImageButtons(i,1,1,jaqaru_base[1],jaqaru_file[i++],false,"Ñuqayku \n takirayku",p1);    //Estamos viviendo || 26 || Nosotros cantamos
+            contenidoButtons[i] = new ImageButtons(i,1,2,jaqaru_base[2],jaqaru_file[i++],false,"Ñuqayku \n takisaqku",p1);    //Estamos viviendo || 27 || Nosotros cantaremos
             contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Ñuqanchik \n takinchik",p1);     //Estamos viviendo || 28 || Nosotros cantamos
             contenidoButtons[i] = new ImageButtons(i,1,1,jaqaru_base[1],jaqaru_file[i++],false,"Ñuqanchik \n takirqanchik",p1);  //Estamos viviendo || 29 || Nosotros cantamos
             contenidoButtons[i] = new ImageButtons(i,1,2,jaqaru_base[2],jaqaru_file[i++],false,"Ñuqanchik \n takisunchik",p1);   //Estamos viviendo || 30 || Nosotros cantaremos
-            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Qamkuna \n takinkichik",p1); //Estamos viviendo || 31 || Ustedes cantan
+            contenidoButtons[i] = new ImageButtons(i,1,0,jaqaru_base[0],jaqaru_file[i++],false,"Qamkuna \n takinkichik",p1);     //Estamos viviendo || 31 || Ustedes cantan
             contenidoButtons[i] = new ImageButtons(i,1,1,jaqaru_base[1],jaqaru_file[i++],false,"Qamkuna \n takirqankichik",p1);  //Estamos viviendo || 32 || Ustedes cantaron
             contenidoButtons[i] = new ImageButtons(i,1,2,jaqaru_base[2],jaqaru_file[i++],false,"Qamkuna \n takinkichik",p1);     //Estamos viviendo || 33 || Ustedes cantarán
             j=1;

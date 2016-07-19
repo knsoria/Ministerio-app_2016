@@ -324,7 +324,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 1ra persona",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=7;i<=8;i++){     //Botones para adelantar y retroceder activity
@@ -358,7 +358,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 3ra persona",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -375,7 +375,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 1ra persona",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -392,7 +392,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 2da persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -409,7 +409,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 3ra persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       menuButtons[6].update();      //Limite forzado
@@ -825,7 +825,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 1ra persona",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=7;i<=8;i++){
@@ -859,7 +859,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 3ra persona",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -876,7 +876,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 1ra persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -893,7 +893,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 2da persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -910,7 +910,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 3ra persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
 
       menuButtons[6].update();      //Limite forzado
@@ -1331,7 +1331,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 1ra persona",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=7;i<=8;i++){
@@ -1365,7 +1365,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 3ra persona",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -1382,7 +1382,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 1ra persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -1399,7 +1399,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 2da persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
       
       for(int i=6;i<=7;i++){
@@ -1416,7 +1416,7 @@ void draw(){
       textAlign(LEFT);
       textFont(fontsubmenu,int(altoGlobal/15));
       fill(98);
-      text("Estamos viviendo - verbo cantar 3ra persona plural",int(anchoGlobal/9),1.5*int(altoGlobal/13));
+      text("Estamos viviendo: Cantar",int(anchoGlobal/9),1.5*int(altoGlobal/13));
       textAlign(CENTER);
 
       menuButtons[6].update();      //Limite forzado
